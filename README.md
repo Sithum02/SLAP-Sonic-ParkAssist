@@ -1,4 +1,4 @@
-# SLAP-Sonic ParkAssist – Parking Made Smarter 🚗💡
+# SLAP-Sonic ParkAssist – Parking Made Smarter 
 
 <figure>
   <img src="Images/Product1.jpg" width="50%">
