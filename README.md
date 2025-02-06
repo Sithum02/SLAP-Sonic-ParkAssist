@@ -7,7 +7,7 @@
 
 <figure>
   <img src="Images/Product2.jpg" width="50%">
-  <figcaption>With connected sensors.</figcaption>
+  <figcaption>With sensors.</figcaption>
 </figure>
 
 
