@@ -7,7 +7,7 @@
 
 <figure>
   <img src="Images/Product2.jpg" width="50%">
-  <figcaption>With sensors.</figcaption>
+  <figcaption>Enclosure with sensors.</figcaption>
 </figure>
 
 
