@@ -4,7 +4,6 @@
   <img src="Images/Product1.jpg" width="50%">
   <figcaption>Hub of the product.</figcaption>
 </figure>
-
 <figure>
   <img src="Images/Product2.jpg" width="50%">
   <figcaption>With sensors.</figcaption>
