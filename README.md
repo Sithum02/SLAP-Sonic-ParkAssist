@@ -44,10 +44,11 @@ SLAP-Sonic ParkAssist works by using a combination of ultrasonic sensors to dete
 
 
 ## Setup & Usage
-1. **Assemble the Hardware**: Connect the ultrasonic sensors to the microcontroller according to the schematic diagram.
-2. **Install the Code**: Upload the Arduino code to the microcontroller using the Arduino IDE.
-3. **Power Up**: Provide the required power to the system and ensure the sensors are properly positioned on the vehicle.
-4. **Test the System**: The system will begin providing real-time audio feedback as the vehicle moves, helping the driver navigate tight parking spaces.
+1. **Assemble the Hardware**: Connect the ultrasonic sensors and buzzers to the main ports according to the user manual.
+2. **Connect the Sensors to the Car**: Carefully drill holes with the provided drill bit and wire the sensors to the relevant positions.
+3. **Connect the Speaker**: Wire the buzzers to the four corners of the car.
+4. **Power Up**: Connect the product to a 12V power line of the car.
+5. **Test the System**: The system will begin providing real-time audio feedback as the vehicle moves, helping the driver navigate tight parking spaces.
 
 ## Challenges Faced
 - **Sensor Placement and Calibration**: Positioning the sensors correctly to ensure accurate obstacle detection while accounting for vehicle dimensions.
@@ -56,7 +57,7 @@ SLAP-Sonic ParkAssist works by using a combination of ultrasonic sensors to dete
 
 ## Future Improvements
 - **Enhanced Sensor Accuracy**: Integrating additional sensors or advanced technologies like radar or LIDAR for even better obstacle detection.
-- **Mobile Integration**: Adding a mobile app interface for visual feedback alongside audio cues, providing additional options for drivers.
+- **Product Size**: Making the product more compact by integrating the sensor modules into the main PCB, saving space in the trunk of the car.
 - **Power Management**: Improving the power efficiency of the system for long-term use and minimal impact on vehicle battery life.
 
 ## Acknowledgements
