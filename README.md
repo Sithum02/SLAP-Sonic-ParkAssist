@@ -68,7 +68,6 @@ SLAP-Sonic ParkAssist works by using a combination of ultrasonic sensors to dete
 
 ## The team
 
-## Circuit Diagram
 <figure>
   <img src="Images/Team.jpg" width="50%">
   <figcaption>The team.</figcaption>
