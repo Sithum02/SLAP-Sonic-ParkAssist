@@ -1,7 +1,14 @@
 # SLAP-Sonic ParkAssist – Parking Made Smarter 🚗💡
 
-![Product Enclosure](Images/Product1.jpg)
-![With Sensors](Images/Product2.jpg)
+<figure>
+  <img src="Images/Product1.jpg" width="50%">
+  <figcaption>Product Enclosure.</figcaption>
+</figure>
+
+<figure>
+  <img src="Images/Product2.jpg" width="50%">
+  <figcaption>With sensors.</figcaption>
+</figure>
 
 
 ## Overview
